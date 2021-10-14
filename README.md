@@ -8,6 +8,8 @@ This repository performs three actions in efforts to present a potential travel 
 2. Create a customer travel destinations map using input statements to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels, which is shown in DataFrame and a marker layer map with pop-up markers using Google Near By Search and Directions API.
 3. Create a travel itinerary map of four potential cities that meet the traveler's weather preferences using Google Directions API.
 
+![WeatherPy_travel_map_markers](/Weather_Database/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+
 ## Resources
 
 - Software: Python 3.9.1, Jupyter Notebook 6.1.4
